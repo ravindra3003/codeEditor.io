@@ -2,7 +2,7 @@
 
 # codeEditor.io
 
-### Sometimes it drains your battery when everyone is messaging each other!
+### An online code editor which supports HTML, CSS, and Javascript Development.
 
 ### https://codeeditor-ddaab.web.app
 
